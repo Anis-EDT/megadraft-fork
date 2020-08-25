@@ -34,7 +34,6 @@ function (_React$Component) {
 
   function _default() {
     _classCallCheck(this, _default);
-
     return _possibleConstructorReturn(this, _getPrototypeOf(_default).apply(this, arguments));
   }
 
@@ -49,9 +48,7 @@ function (_React$Component) {
           position : "relative",
           bottom : "5px"
         }
-
-        
-      } , 'H2');
+      } , 'H3');
     }
   }]);
 

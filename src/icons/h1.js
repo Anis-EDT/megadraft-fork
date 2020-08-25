@@ -51,7 +51,7 @@ function (_React$Component) {
         }
 
         
-      } , 'H2');
+      } , 'H1');
     }
   }]);
 
